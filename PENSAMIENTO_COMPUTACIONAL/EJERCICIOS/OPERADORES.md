@@ -2,10 +2,29 @@
 Reto. Describe el proceso en que se computa las siguientes fórmulas.
 
 X = (18/9 * 2 + 16) – ( 5 * 4 – 3^3)
+1. resolver primer paréntesis
+2. 18/9=2
+3. 2*2=4
+4. R: 4+16=20
+5. resolver segundo paréntesis
+6. 5*4=20
+7. 3^3=27
+8. R: 20-27=-7
+9. R final 20+7= 27
 
 X = (5 + 2 * 4) – (25 +. 5)2
+1. resolver primer paréntesis
+2. R: 7*4=28
+3. resolver segundo paréntesis
+4. R: 25.5*2=-51
+5. Resultado final= -23
 
 X = (100/5^2 + 1) + 11 * 3
+1. resolver primer paréntesis
+2. 100/25=4
+3. R: 4+1=5
+4. resolver siguiente operación
+5. 
 
 X = ((8-6)^2*3)^3.
 
