@@ -1,9 +1,8 @@
 ## RETO 
 Vamos a identificar los siguientes tipos de datos
 
-NUMEROS ENTEROS : 
-
-NUMEROS DECIMALES: 
+NUMEROS ENTEROS : int
+NUMEROS DECIMALES: float 
 
 CARACTER : 
 
